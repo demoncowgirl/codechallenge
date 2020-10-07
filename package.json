@@ -29,5 +29,7 @@
   },
   "author": "Beth Salvatore",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
